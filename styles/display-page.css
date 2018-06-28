@@ -1,0 +1,39 @@
+main {
+	font-size: 0;
+}
+
+.top-level {
+	height: 500px;
+	/*border: 1px;*/
+	/*border-color: black;*/
+	width: 50%;
+	display: inline-block;
+}
+
+.green {
+	background-color: green;
+}
+
+.blue {
+	background-color: blue;
+}
+
+/*.bottom-level {
+	height: 300px;
+	border: 1px;
+	border-color: black;
+	width: 33%;
+	display: inline-block;
+}
+
+.gray {
+	background-color: gray;
+}
+
+.black {
+	background-color: black;
+}
+
+.orange {
+	background-color: orange;
+}*/
