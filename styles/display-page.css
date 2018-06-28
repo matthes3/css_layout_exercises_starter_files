@@ -2,12 +2,22 @@ main {
 	font-size: 0;
 }
 
-.top-level {
-	height: 500px;
-	/*border: 1px;*/
-	/*border-color: black;*/
-	width: 50%;
+.centered {
+	margin-top: 90px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+	text-align: center;
+}
+
+.box {
 	display: inline-block;
+	border: 1px solid black;
+}
+
+.top {
+	width: 50%;
+	height: 200px;
 }
 
 .green {
@@ -18,12 +28,9 @@ main {
 	background-color: blue;
 }
 
-/*.bottom-level {
+.bot {
 	height: 300px;
-	border: 1px;
-	border-color: black;
-	width: 33%;
-	display: inline-block;
+	width: 33.3%;
 }
 
 .gray {
@@ -36,4 +43,4 @@ main {
 
 .orange {
 	background-color: orange;
-}*/
+}
